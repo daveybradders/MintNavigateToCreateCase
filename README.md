@@ -9,7 +9,7 @@ This package contains a Global Action which redirect's the user to the Mint CRM 
 
 ## Part 1: Installation
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=daveybradders&repo=Mint-Raise-A-Case">
+<a href="https://githubsfdeploy.herokuapp.com?owner=daveybradders&repo=MintRaiseACase">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
