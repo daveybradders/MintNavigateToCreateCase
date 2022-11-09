@@ -1,0 +1,13 @@
+<aura:component implements="force:appHostable,force:lightningQuickAction,lightning:availableForFlowActions">
+	<aura:handler name="init" value="{!this}" action="{!c.navigate}"/>
+	<center>
+	<br/>
+    <p>A new window has been opened with a form to create a Support Case.</p> 
+    <br/>
+ 	<p>If this is not the case, please try the below button:</p>
+	
+    <div class="slds-p-top_x-large">
+   		<lightning:button variant="brand" label="Raise a Support Case" title="Navigate to the Mint Raise a Support Case Form" onclick="{!c.navigate}" /> 
+	</div>
+    </center>
+</aura:component>

@@ -1,0 +1,6 @@
+<aura:documentation>
+	<aura:description>Documentation</aura:description>
+	<aura:example name="MintNavigateToCreateCase" ref="MintNavigateToCreateCase" label="Mint Navigate To Create Case">
+		Flow component for navigating to a specified URL
+	</aura:example>
+</aura:documentation>
